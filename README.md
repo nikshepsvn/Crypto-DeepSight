@@ -4,8 +4,8 @@ Lists coins based on popularity, relatively ranking each coin after scanning thr
 Mini-Goals
 
 * Retrieve data from different places (reddit, news, twitter) -- DONE
-* Process data effectively and return results -- IN PROGRESS
-* Display data via a UI
+* Process data effectively and return results -- DONE
+* Display data via a UI -- IN PROGRESS
 
 Side-Goals
 
